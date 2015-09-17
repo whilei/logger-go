@@ -62,7 +62,7 @@ Do a CRITICAL logging
 
     log := logger.New(os.Stderr, logger.INFO)
     log.Info("This is Info")
-    log.SetLevel(DEBUG)
+    log.SetLevel(logger.DEBUG)
     log.Debug("This is Debug")
 
 ### Do logging to a file
