@@ -1,5 +1,5 @@
 /*
- * Go module for do logging
+ * Go module for doing logging
  * https://www.likexian.com/
  *
  * Copyright 2015, Kexian Li
